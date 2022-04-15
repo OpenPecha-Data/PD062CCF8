@@ -1,0 +1,28 @@
+id: PD062CCF8
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of the 8th Nālendra abbot mKhyen rab chos rje (1436–1497)
+  author: ཞྭ་ལུ་ལོ་ཙཱ་བ་ཆོས་སྐྱོང་བཟང་པོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2020-06-06);
+    revision in process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/1799
+  bases:
+    9e93:
+      title: Hagiography of the 8th Nālendra abbot mKhyen rab chos rje (1436–1497)
+      order: 1
+      base_file: 9e93.txt
+created_at: '2022-04-15T18:48:17.650734'
+last_modified_at: '2022-04-15T18:48:17.650742'
+quality: null
